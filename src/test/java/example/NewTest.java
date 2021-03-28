@@ -21,6 +21,7 @@ public class NewTest {
 		public void beforeTest() {	
 		    
 			//System.setProperty("webdriver.chrome.driver", "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe");
+			//for chrome 
 			System.setProperty("webdriver.chrome.driver", "C:\\Apps\\chromedriver.exe");
 			driver = new ChromeDriver();  
 		}		
