@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="TestSuite" time="2.737" errors="0" skipped="0">
+  <properties>
+    <property name="ANT_OPTS" value="-Xmx1024m"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="LOGONSERVER" value="\\LAPTOP-9U42SIG1"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_231\jre"/>
+    <property name="NODE_NAME" value="Slave1"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="CATALINA_HOME" value="C:\Apps\tomcat9\apache-tomcat-9.0.34"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_231\jre\lib\endorsed"/>
+    <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules"/>
+    <property name="=::" value="::\"/>
+    <property name="USERDOMAIN" value="LAPTOP-9U42SIG1"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.version" value="1.8.0_231"/>
+    <property name="JOB_NAME" value="WebdriverTest1"/>
+    <property name="COMPUTERNAME" value="LAPTOP-9U42SIG1"/>
+    <property name="COMPOSE_CONVERT_WINDOWS_PATHS" value="true"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="ChocolateyLastPathUpdate" value="132364010057434458"/>
+    <property name="user.name" value="garyf"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="OUTPUT_PATH" value="C:\Eclipse\appData\workspace-2020\HackerRank\tmp"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 142 Stepping 12, GenuineIntel"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\garyf\AppData\Local"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/WebdriverTest1/5/display/redirect?page=changes"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="8"/>
+    <property name="BUILD_TAG" value="jenkins-WebdriverTest1-5"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Cloud\Jenkins\Slave1\tools\hudson.tasks.Maven_MavenInstallation\myMaven C:\Cloud\Jenkins\agent.jar C:\Cloud\Jenkins\Slave1\maven35-interceptor.jar C:\Cloud\Jenkins\Slave1\maven3-interceptor-commons.jar 59877"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="de3f12708abdadb8"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="Path" value="C:\Program Files\Java\jdk1.8.0_231/bin;C:\Program Files\Java\jdk1.8.0_231\bin;C:\Apps\apache-maven-3.6.3\bin;C:\Program Files\Java\jdk-11.0.1\bin;C:\Program Files (x86)\fake\IBM\WebSphere\AppClient\bin;C:\Program Files (x86)\fake\IBM\WebSphere\AppClient\java\jre\bin;C:\Program Files (x86)\fake\IBM\WebSphere\AppClient\java\jre\bin\j9vm;C:\Program Files (x86)\fake\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\Vim\vim82;C:\Apps\kafka_2.12-2.4.0\bin;C:\Apps\kafka_2.12-2.4.0;C:\Program Files (x86)\scala\bin;C:\Program Files (x86)\sbt\bin;C:\Apps\confluent-5.4.1\bin;C:\Apps\confluent-5.4.1\cli;C:\Program Files\MongoDB\Server\4.2\bin;C:\Program Files (x86)\Calibre2\;C:\Apps\tomcat9\apache-tomcat-9.0.34\bin;C:\Apps\curl-7.70.0-win64-mingw\bin;C:\Program Files\Kubernetes\Minikube;C:\Apps\kubenetes-tool;C:\ProgramData\chocolatey\bin;C:\Apps;C:\Program Files (x86)\Yarn\bin\;C:\Apps\ccloud;C:\Apps\flutter\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Go\bin;C:\Users\garyf\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\garyf\AppData\Local\Programs\Python\Python38\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\garyf\AppData\Local\Microsoft\WindowsApps;C:\Users\garyf\Microsoft VS Code\bin;C:\Users\garyf\AppData\Local\GitHubDesktop\bin;C:\Users\garyf\AppData\Roaming\npm;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\Docker Toolbox;C:\Program Files\Vim\vim82;C:\Apps\kafka_2.12-2.4.0\bin;C:\Apps\kafka_2.12-2.4.0;C:\Users\garyf\AppData\Local\Yarn\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.1\bin;;C:\Users\garyf\AppData\Local\Microsoft\WindowsApps;C:\Cloud\go\bin;C:\Users\garyf\go\bin"/>
+    <property name="CONFLUENT_HOME" value="C:\Apps\confluent-5.4.1"/>
+    <property name="java.io.tmpdir" value="C:\Users\garyf\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\garyf\AppData\Roaming"/>
+    <property name="user.language" value="en"/>
+    <property name="line.separator" value="
+"/>
+    <property name="GOPATH" value="C:\Cloud\go"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/WebdriverTest1/5/"/>
+    <property name="SBT_HOME" value="C:\Program Files (x86)\sbt\"/>
+    <property name="DOCKER_CERT_PATH" value="C:\Users\garyf\.docker\machine\machines\default"/>
+    <property name="M2_HOME" value="C:\Cloud\Jenkins\Slave1\tools\hudson.tasks.Maven_MavenInstallation\myMaven"/>
+    <property name="=C:" value="C:\Cloud\Jenkins"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="BUILD_DISPLAY_NAME" value="#5"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="HUDSON_SERVER_COOKIE" value="de3f12708abdadb8"/>
+    <property name="WORKSPACE_TMP" value="C:\Cloud\Jenkins\Slave1\workspace\WebdriverTest1@tmp"/>
+    <property name="MAVEN_HOME" value="C:\Cloud\Jenkins\Slave1\tools\hudson.tasks.Maven_MavenInstallation\myMaven"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="maven3.interceptor.common" value="C:\Cloud\Jenkins\Slave1\maven3-interceptor-commons.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="PyCharm Community Edition" value="C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.1\bin;"/>
+    <property name="HOMEPATH" value="\Users\garyf"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="5"/>
+    <property name="maven3.interceptor" value="C:\Cloud\Jenkins\Slave1\maven35-interceptor.jar"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_231\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Cloud\Jenkins\Slave1\tools\hudson.tasks.Maven_MavenInstallation\myMaven/bin;C:\Program Files\Java\jdk1.8.0_231/bin;C:\Program Files\Java\jdk1.8.0_231/bin;C:\Program Files\Java\jdk1.8.0_231\bin;C:\Apps\apache-maven-3.6.3\bin;C:\Program Files\Java\jdk-11.0.1\bin;C:\Program Files (x86)\fake\IBM\WebSphere\AppClient\bin;C:\Program Files (x86)\fake\IBM\WebSphere\AppClient\java\jre\bin;C:\Program Files (x86)\fake\IBM\WebSphere\AppClient\java\jre\bin\j9vm;C:\Program Files (x86)\fake\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\Vim\vim82;C:\Apps\kafka_2.12-2.4.0\bin;C:\Apps\kafka_2.12-2.4.0;C:\Program Files (x86)\scala\bin;C:\Program Files (x86)\sbt\bin;C:\Apps\confluent-5.4.1\bin;C:\Apps\confluent-5.4.1\cli;C:\Program Files\MongoDB\Server\4.2\bin;C:\Program Files (x86)\Calibre2\;C:\Apps\tomcat9\apache-tomcat-9.0.34\bin;C:\Apps\curl-7.70.0-win64-mingw\bin;C:\Program Files\Kubernetes\Minikube;C:\Apps\kubenetes-tool;C:\ProgramData\chocolatey\bin;C:\Apps;C:\Program Files (x86)\Yarn\bin\;C:\Apps\ccloud;C:\Apps\flutter\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Go\bin;C:\Users\garyf\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\garyf\AppData\Local\Programs\Python\Python38\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\garyf\AppData\Local\Microsoft\WindowsApps;C:\Users\garyf\Microsoft VS Code\bin;C:\Users\garyf\AppData\Local\GitHubDesktop\bin;C:\Users\garyf\AppData\Roaming\npm;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\Docker Toolbox;C:\Program Files\Vim\vim82;C:\Apps\kafka_2.12-2.4.0\bin;C:\Apps\kafka_2.12-2.4.0;C:\Users\garyf\AppData\Local\Yarn\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.1\bin;;C:\Users\garyf\AppData\Local\Microsoft\WindowsApps;C:\Cloud\go\bin;C:\Users\garyf\go\bin;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="POM_GROUPID" value="webdrivertest"/>
+    <property name="POM_ARTIFACTID" value="webdrivertest"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/WebdriverTest1/"/>
+    <property name="ANT_HOME" value="C:\apache-ant-1.8.1"/>
+    <property name="OneDrive" value="C:\Users\garyf\OneDrive"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/WebdriverTest1/5/display/redirect"/>
+    <property name="VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\"/>
+    <property name="DOCKER_TLS_VERIFY" value="1"/>
+    <property name="JENKINS_HOME" value="C:\Users\garyf\.jenkins"/>
+    <property name="BUILD_ID" value="5"/>
+    <property name="TEMP" value="C:\Users\garyf\AppData\Local\Temp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_231\jre\bin"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="8e0c"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="HUDSON_HOME" value="C:\Users\garyf\.jenkins"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="C:\Cloud\Jenkins\Slave1\tools\hudson.tasks.Maven_MavenInstallation\myMaven/bin"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="LAPTOP-9U42SIG1"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8080/job/WebdriverTest1/5/display/redirect?page=artifacts"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_231"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="Jenkins Slave1 slave"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="USERPROFILE" value="C:\Users\garyf"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/WebdriverTest1/display/redirect"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\garyf"/>
+    <property name="USERNAME" value="garyf"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="DOCKER_HOST" value="tcp://192.168.99.100:2376"/>
+    <property name="user.dir" value="C:\Cloud\Jenkins\maven_jenkins_selenium_tutorial\webdrivertest"/>
+    <property name="maven.conf" value="C:\Cloud\Jenkins\Slave1\tools\hudson.tasks.Maven_MavenInstallation\myMaven\conf"/>
+    <property name="NO_PROXY" value="192.168.99.100"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\Users\garyf\AppData\Local\Temp"/>
+    <property name="DOCKER_TOOLBOX_INSTALL_PATH" value="C:\Program Files\Docker Toolbox"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vm.version" value="25.231-b11"/>
+    <property name="java.class.path" value="C:\Cloud\Jenkins\Slave1\maven35-agent.jar;C:\Cloud\Jenkins\Slave1\tools\hudson.tasks.Maven_MavenInstallation\myMaven\boot\plexus-classworlds-2.6.0.jar;C:\Cloud\Jenkins\Slave1\tools\hudson.tasks.Maven_MavenInstallation\myMaven/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="WORKSPACE" value="C:\Cloud\Jenkins\Slave1\workspace\WebdriverTest1"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://localhost:8080/job/WebdriverTest1/5/display/redirect?page=tests"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="\"/>
+    <property name="ChocolateyInstall" value="C:\ProgramData\chocolatey"/>
+    <property name="java.runtime.version" value="1.8.0_231-b11"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_231\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_231\jre\classes"/>
+    <property name="DOCKER_MACHINE_NAME" value="default"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_231/bin"/>
+    <property name="user.country" value="CA"/>
+    <property name="=ExitCode" value="FFFFFFFF"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="maven.home" value="C:\Cloud\Jenkins\Slave1\tools\hudson.tasks.Maven_MavenInstallation\myMaven"/>
+    <property name="JOB_BASE_NAME" value="WebdriverTest1"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="webdrivertest"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+  </properties>
+  <testcase classname="example.NewTest" name="testEasy" time="2.737"/>
+</testsuite>
